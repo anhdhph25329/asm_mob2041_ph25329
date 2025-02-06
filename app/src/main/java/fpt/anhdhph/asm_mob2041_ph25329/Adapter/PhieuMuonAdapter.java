@@ -1,8 +1,6 @@
 package fpt.anhdhph.asm_mob2041_ph25329.Adapter;
 
 import android.content.Context;
-import android.content.res.Resources;
-import android.icu.text.SimpleDateFormat;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;

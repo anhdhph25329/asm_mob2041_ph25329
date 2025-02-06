@@ -1,7 +1,5 @@
 package fpt.anhdhph.asm_mob2041_ph25329.Fragment;
 
-import static java.time.MonthDay.now;
-
 import android.app.AlertDialog;
 import android.app.Dialog;
 import android.content.Context;
@@ -32,7 +30,6 @@ import android.widget.Toast;
 
 import com.google.android.material.floatingactionbutton.FloatingActionButton;
 
-import java.sql.Date;
 import java.time.LocalDate;
 import java.util.ArrayList;
 

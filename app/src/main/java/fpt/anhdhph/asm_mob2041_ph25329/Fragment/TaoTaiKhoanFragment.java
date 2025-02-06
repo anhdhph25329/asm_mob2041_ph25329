@@ -1,7 +1,5 @@
 package fpt.anhdhph.asm_mob2041_ph25329.Fragment;
 
-import android.content.Context;
-import android.content.SharedPreferences;
 import android.os.Bundle;
 
 import androidx.fragment.app.Fragment;
