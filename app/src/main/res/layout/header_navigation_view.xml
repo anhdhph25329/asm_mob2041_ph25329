@@ -11,7 +11,7 @@
         android:layout_gravity="center_horizontal"
         android:layout_width="90dp"
         android:layout_height="90dp"
-        android:src="@drawable/ic_name"
+        android:src="@drawable/avt"
         app:shapeAppearanceOverlay="@style/rounde_corner"/>
     <LinearLayout
         android:layout_gravity="bottom|center_horizontal"
