@@ -107,7 +107,7 @@
             android:paddingLeft="5dp"/>
     </LinearLayout>
     <LinearLayout
-        android:layout_marginTop="75dp"
+        android:layout_marginTop="25dp"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:orientation="horizontal">

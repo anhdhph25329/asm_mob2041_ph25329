@@ -6,7 +6,7 @@ import android.database.sqlite.SQLiteOpenHelper;
 
 public class DbHelper extends SQLiteOpenHelper {
     static final String dbName = "PNLIB";
-    static final int dbVersion = 1;
+    static final int dbVersion = 2;
     public DbHelper(Context context) {
         super(context, dbName, null, dbVersion);
     }
@@ -58,7 +58,7 @@ public class DbHelper extends SQLiteOpenHelper {
         db.execSQL(createTableLoaiSach);
 
         String add_tt = "INSERT INTO ThuThu VALUES" +
-                "('admin','Administrator','123')";
+                "('admin','Dao Hoang Anh','123')";
         db.execSQL(add_tt);
 
         String add_loaiSach = "INSERT INTO LoaiSach VALUES" +
